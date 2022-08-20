@@ -1,16 +1,18 @@
-### Hi there 👋
+FastCupCore - многофункциональное серверное программное обеспечение 
+для Minecraft: Pocket Edition и Minecraft: Windows 10 Edition.
+Некоторые функции, предлагаемые FastCupCore:
+-------------
 
-<!--
-**Fastcupcore/FastCupCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Расширенный API для плагинов
+* Частые обновления
+* Разработчики, готовые выслушать все ваши рекомендации и пожелания :)
+* Постоянные доработки и исправления ошибок
 
-Here are some ideas to get you started:
+Поддерживаемая версия
+-------------
+Игровые версии, поддерживаемые ядром:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] Minecraft PE/Windows 10 v1.1.x
+- [ ] Minecraft PE/Windows 10 v1.x.x
+
+Компания FastCupCore - https://vk.com/FastCupCore 
