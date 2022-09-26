@@ -1,10 +1,8 @@
 # Jet Browser - version 1.0.2
 
-Produced works:
-
 This browser is written in the Python programming language.
-the urlbar of the stop reload next back button was added to the browser
-we will also soon add support for mp4 video format
+We made a good browser optimization,
+We want you to have no security issues
 
 - [x] Url-Bar - 1.0.2
 - [x] Tabs - 1.0.2
