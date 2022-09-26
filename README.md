@@ -26,4 +26,6 @@ Jet Browser - все права защищены - 2022
 
 ![Screenshot_1](https://user-images.githubusercontent.com/110713770/192215364-21c8814e-46b2-411d-9f09-0a337f8d4f21.png)
 
+```
 https://github.com/Jet-Browser/Jet-Browser/
+```
