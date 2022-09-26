@@ -1,7 +1,7 @@
 # Jet Browser - version 1.0.2
 
 This browser is written in the Python programming language.                                                                
-We made a good browser optimization, 
+We made a good browser optimization,                                                                 
 We want you to have no security issues
 
 - [x] Url-Bar - 1.0.2
