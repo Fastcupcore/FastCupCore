@@ -1,4 +1,4 @@
-# - Jet Browser version 1.0.2
+# Jet Browser - version 1.0.2
 
 Produced works:
 
