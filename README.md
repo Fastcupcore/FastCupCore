@@ -12,4 +12,4 @@ We want you to have no security issues
 ![Screenshot_1](https://user-images.githubusercontent.com/110713770/192215364-21c8814e-46b2-411d-9f09-0a337f8d4f21.png)
 
 
-Jet Browser - all rights reserved = 2022#
+Jet Browser - all rights reserved - 2022
